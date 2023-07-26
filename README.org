@@ -1,0 +1,10 @@
+* cl-crc64
+
+cl-crc64 implements 64 bit cyclic redundancy checks in Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/RobBlackwell/cl-crc64.git   |
+| commit  | a587a4f  |
+| systems | cl-crc64 |
+|---------+-------------------------------------------|
+
